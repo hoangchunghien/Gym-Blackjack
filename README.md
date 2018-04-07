@@ -1,5 +1,7 @@
 # Blackjack
 
+![blackjack-image](2-card-21.png)
+
 Blackjack is a card game where the goal is to obtain cards that sum to as
 near as possible to 21 without going over.  They're playing against a fixed
 dealer.
